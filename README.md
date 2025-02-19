@@ -54,5 +54,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 Copyright ~ HalfGrade Play  @RushikeshRode 2024
 
 ## Contact
-For any questions, reach out via [rushikeshrode01@example.com] or create an issue on the repository.
+visit my portfolio : https://rushikeshrode.github.io/Portfolio
+For any questions, reach out via [rushikeshrode01@gmail.com] or create an issue on the repository.
 
